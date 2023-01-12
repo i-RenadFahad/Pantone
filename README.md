@@ -12,8 +12,8 @@ How to make the color matching game accessible for all children?
 
 ## at the begging the focus was on two potential audience:
 
-⋅⋅* healthy children
-⋅⋅* children with mobility disability (involving manipulation of objects by hand)
+* healthy children
+* children with mobility disability (involving manipulation of objects by hand)
 
 ## Solution statement:
 
