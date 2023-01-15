@@ -15,9 +15,13 @@ How to make the color matching game accessible for all children?
 * healthy children
 * children with mobility disability (involving manipulation of objects by hand)
 
-## Solution statement:
+## Solution Concept:
 
 build a color matching game for children who want to play either by interacting with the buttons directly or with a voice command feature so that everyone can play it even children with mobility issues.
+
+## Technologies & Tools:
+** Xcode
+** built in voice command features 
 
 ## implementation: 
 
@@ -28,4 +32,11 @@ Voice command is implemented by adding array of accessibility labels in the modi
 ```
 
 ## Demo:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/78163008/212531580-26198ee3-7f5c-44e4-9f98-43b59a811ceb.gif)
+
+## Challenge Summary:
+
+<img width="1092" alt="Screenshot Pantone Keynote 2 2023-01-12 at 4 19 16 PM" src="https://user-images.githubusercontent.com/78163008/212531626-a6dadb89-b025-42bb-b4c6-b746cfec89e1.png">
+
 
